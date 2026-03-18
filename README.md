@@ -8,6 +8,6 @@ listen to them unless you are 100% prepared to **rock**.
 
 That said, I mean, just be cool, ok?
 
-The live version of the site is hosted at [Mooniform Rocks](mooniform.rocks).
+The live version of the site is hosted at [Mooniform Rocks](https://mooniform.rocks).
 It includes a listing of our upcoming shows and a form to fill out if you
 are a venue that would like us to play upbeat, retro-tinged rock in your space.
